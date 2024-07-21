@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.row{
+    background-color: whitesmoke;
+    height: 344px;
+}
+
+.container5{
+    width: 50px;
+    background-color: black;
+    
+}
